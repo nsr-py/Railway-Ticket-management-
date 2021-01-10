@@ -13,7 +13,7 @@ void main()
  int Q;
  cout<<" Welcome to the Mind Tester...."<<endl<<endl;
  getch();
- cout<<"The rules of this game are simple :"<<endl;
+ cout<<"The rules of this game are simple::"<<endl;
  getch();
  cout<<endl<<"   1. We will display a question and four corresponding choices"<<endl<<"     out of which only one is correct"<<endl<<"   2. Choose the option which you feel is correct."<<endl<<"   3. You have only three lives, PLAY CAREFULLY!!!"<<endl<<"   4. For every correct answer you will be awarded 5 points"<<endl;
  getch();
